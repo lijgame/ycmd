@@ -32,3 +32,7 @@
 [submodule "third_party/python-future"]
 	path = third_party/python-future
 	url = https://github.com/PythonCharmers/python-future
+[submodule "YCM-Generator"]
+	path = YCM-Generator
+	url = https://github.com/lijgame/YCM-Generator.git
+	branch = stable
